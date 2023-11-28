@@ -11,7 +11,7 @@
 
 <br/>
 
-### Files struture of the labels and annotations for YOLO format 👇
+### Files structure of the labels and annotations for YOLO format 👇
 ![Files struture of the labels and annotations for YOLO format](images/yolov5_files.png)
 
 <br/>
