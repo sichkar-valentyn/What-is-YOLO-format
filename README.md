@@ -12,7 +12,7 @@
 <br/>
 
 ### Files structure of the labels and annotations for YOLO format 👇
-![Files struture of the labels and annotations for YOLO format](images/yolov5_files.png)
+![Files structure of the labels and annotations for YOLO format](images/yolov5_files.png)
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 
 ### Concept map of the YOLO v5 course 👇
-![Files struture of the labels and annotations for YOLO format](images/concept_map_YOLO_v5.png)
+![Concept map of the YOLO v5 course](images/concept_map_YOLO_v5.png)
 
 <br/>
 
